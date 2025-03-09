@@ -1,6 +1,6 @@
 # e.MMC-Test-Board
 
-![TLMOTO](https://github.com/eletronicaTL/e.MMC-Test-Board/blob/main/tlmoto_logo.jpg)
+<img src="https://github.com/eletronicaTL/e.MMC-Test-Board/blob/main/tlmoto_logo.png" alt="TLMOTO" width="300">
 
 # Introduction
 We are a student-led team, TLMoto, from Instituto Superior T´ecnico, in Lisbon, Portugal. Our goal is to build an electric motorbike to compete at MotoStudent, in Aragon, Spain. Recently, we decided to further develop our telemetry system, and implement a better memory to gather the data collected. For that purpose, we selected an e.MMC — embedded MultiMediaCard — and designed this PCB, to be able to reliably test it, and later implement the same principles on the real bike.
