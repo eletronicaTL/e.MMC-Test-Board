@@ -31,7 +31,7 @@ You can download both files from this repository.
 
 # How to Order the PCBs
 
-It is now time to place the order for our PCBs. For that, we have got the help of [JLCPCB](https://jlcpcb.com/) and is also a sponsor of this project. 
+It is now time to place the order for our PCBs. For that, we have got the help of [JLCPCB](https://jlcpcb.com/?from=STU) and is also a sponsor of this project. 
 
 In their website, you just need to click on the “QUOTE NOW” button. You can order a minimum of 5 PCBs for just $2. To get the PCB manufactured, upload the Gerber files that you can obtained from PCB Design file. Upload the .zip file or you can also drag and drop the Gerber files. After uploading the .zip file, you’ll see a success message at the bottom of the file, meaning that it has been successfully uploaded. Review the PCB in the Gerber viewer to make sure everything is good — both the top and bottom of the PCB. After making sure your PCB looks good, you can now place the order at the reasonable price mentioned above. Furthermore, if it is your first order, you can get 10 PCBs for $2. To place the order, click on the “SAVE TO CART” button. The PCBs took 2 days to get manufactured and arrived within a week using the DHL delivery option. PCBs were well packed and the quality was really good.
 
